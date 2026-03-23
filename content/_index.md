@@ -1,2 +1,3 @@
-## Hey there
-I'm `@ranidae97`. Love foss, scifi, music and jailbreking stuff.
+## Hey there 👋
+
+I'm D. Rodríguez. I love FOSS, SciFi, music and jailbreking stuff. This web is a digital space for my personal endeavors.
