@@ -1,6 +1,6 @@
 baseurl = "https://ranidae97.github.io"
 DefaultContentLanguage = "en"
-title = "@ranidae97"
+title = "Ranidae"
 # Using theme as git submodule
 theme = "beautifulhugo"
 # Or when using theme as hugo module
@@ -53,7 +53,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params.author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "@ranidae97"
+  name = "Ranidae"
   website = "ranidae97.github.io"
   email = "ranidae97@gmail.com"
 #  facebook = "username"
